@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'TT Fors Trial';
+    src: local('TT Fors Trial ExtraBold'), local('TTForsTrial-ExtraBold'),
+        url('../fonts/TTForsTrial-ExtraBold.woff2') format('woff2'),
+        url('../fonts/TTForsTrial-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Fors Trial';
+    src: local('TT Fors Trial Bold'), local('TTForsTrial-Bold'),
+        url('../fonts/TTForsTrial-Bold.woff2') format('woff2'),
+        url('../fonts/TTForsTrial-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Fors Trial';
+    src: local('TT Fors Trial Black'), local('TTForsTrial-Black'),
+        url('../fonts/TTForsTrial-Black.woff2') format('woff2'),
+        url('../fonts/TTForsTrial-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Fors Trial';
+    src: local('TT Fors Trial Regular'), local('TTForsTrial-Regular'),
+        url('../fonts/TTForsTrial-Regular.woff2') format('woff2'),
+        url('../fonts/TTForsTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Fors Trial';
+    src: local('TT Fors Trial Medium'), local('TTForsTrial-Medium'),
+        url('../fonts/TTForsTrial-Medium.woff2') format('woff2'),
+        url('../fonts/TTForsTrial-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Fors Trial';
+    src: local('TT Fors Trial Light'), local('TTForsTrial-Light'),
+        url('../fonts/TTForsTrial-Light.woff2') format('woff2'),
+        url('../fonts/TTForsTrial-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
